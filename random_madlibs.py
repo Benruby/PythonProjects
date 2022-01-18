@@ -5,5 +5,3 @@ if __name__ == "__main__":
     print()
     m = random.choice([madlib1, madlib2])
     m.madlib()
-
-
