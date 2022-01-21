@@ -6,4 +6,4 @@ if __name__ == "__main__":
     m = random.choice([madlib1, madlib2])
     m.madlib()
 
-#test comment
+#test comment2

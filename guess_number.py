@@ -1,6 +1,5 @@
 import random
 
-
 # let the user guess a number
 def guess(x):
     random_number = random.randint(1, x)
